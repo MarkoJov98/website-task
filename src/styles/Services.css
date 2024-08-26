@@ -1,0 +1,37 @@
+.services {
+    padding: 2rem; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+  }
+  
+  .services h1 {
+    font-size: 2rem; 
+    margin-bottom: 1rem; 
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .service-item {
+    margin-bottom: 2rem; 
+  }
+  
+  .service-item h2 {
+    font-size: 1.8rem; 
+    margin-bottom: 0.5rem;
+  }
+  
+  .service-item p {
+    line-height: 1.6; 
+    margin-bottom: 1rem; 
+  }
+  
+  .service-item a {
+    color: #007BFF; 
+    text-decoration: none;
+  }
+  
+  .service-item a:hover {
+    text-decoration: underline; 
+  }
+  
+  
